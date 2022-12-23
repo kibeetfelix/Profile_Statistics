@@ -23,14 +23,24 @@ body {
     top: -30px;
     left: 50%;
     transform: translateX(-50%);
+    color: blue;
 }
 
 .counter {
-    font-size: 40px;
+    font-size: 50px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    color: orangered;
+}
 
+h4 {
+    position: absolute;
+    bottom: 1px;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    color: green;
 }
 
 @media (max-width:600px) {
