@@ -8,3 +8,10 @@ body {
     background-color: rgb(234, 238, 12);
     font-family: cursive;
 }
+
+.stats-box {
+    margin: 10px;
+    border: dotted 2px dodgerblue;
+    min-width: 200px;
+    height: 100px;
+}
