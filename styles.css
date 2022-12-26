@@ -12,10 +12,12 @@ body {
 .stats-box {
     margin: 10px;
     border: dotted 2px dodgerblue;
+    border-radius: 20px;
     min-width: 200px;
     height: 100px;
     position: relative;
     padding: 20px;
+    background-color: aquamarine;
 }
 
 .icon {
